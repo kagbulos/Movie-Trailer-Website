@@ -15,4 +15,4 @@ This is a single-page application that displays three movies and their correspon
 
 How to use
 -----------
-Click on index.html
+Pull the project from github or download all the files manually. Open the command prompt/command line and type in: python "INSERTYOURFILEPATHHERE/entertainment_center.py" then hit enter. At this point, your web browser should automatically open a tab containing the project.
